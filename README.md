@@ -7,7 +7,7 @@ Desenvolvedor de software com foco em desenvolvimento web, automação e soluç�
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  
+  <img src="https://githubusercontent.com" alt="LangChain" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" width="40" height="40" alt="LangChain"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
